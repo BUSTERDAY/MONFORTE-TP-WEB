@@ -1,12 +1,12 @@
 ﻿* {
     font-family: 'Arial';
-    font-size: 14px;
+    font-size: 20px;
 }
 
 body {
     background-size: cover;
-    height: 100vh;
-    background-image : url("images/VE.png");
+    /* height: 100vh; */
+    background-image : url("images/");
 }
 
 h1 {
@@ -14,4 +14,9 @@ h1 {
     font-size: 40px;
     font-style: italic;
     text-align: center;
+}
+
+p{
+    color: rgb(5, 5, 57);
+    
 }
