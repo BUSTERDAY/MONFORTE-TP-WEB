@@ -1,6 +1,12 @@
 ﻿* {
-    font-family : 'Comic Sans MS';
-    font-size : 14px;
+    font-family: 'Arial';
+    font-size: 14px;
+}
+
+body {
+    background-size: cover;
+    height: 100vh;
+    background-image : url("images/VE.png");
 }
 
 h1 {
