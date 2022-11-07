@@ -3,13 +3,9 @@
     font-size: 20px;
 }
 
-#Reponse {
-    background: linear-gradient(to right, rgb(100, 100, 250) 0%, white 50%, rgb(254, 130, 130) 100%)
-}
-
-#AccueilEtQuestions {
+body {
     background-size: cover;
-    background-image : url("images/fond.png");
+    background: linear-gradient(to right, rgb(100, 100, 250) 0%, white 50%, rgb(254, 130, 130) 100%);
 }
 
 h1 {
@@ -31,6 +27,11 @@ h2 {
     font-size: 30px;
     font-style: italic;
     text-align: center;
+}
+
+.panneau{
+    position : relative;
+    left: 100px;
 }
 
 .bouton{
