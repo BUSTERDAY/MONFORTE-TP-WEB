@@ -70,6 +70,21 @@ footer{
     color : black;
 }
 
+#imageFeuOrange{
+    width : 250px;
+    height : 500px;
+}
+
+#imagepietonPassagePieton{
+    width : 700px;
+    height : 500px;
+}
+
+#imageautoroute{
+    width : 1000px;
+    height : 500px;
+}
+
 #travaux {
     color :rgb(255, 140, 0)
 }
