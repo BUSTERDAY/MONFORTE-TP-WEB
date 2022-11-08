@@ -1,4 +1,4 @@
-﻿@media screen and (max-width: 667px){
+﻿@media screen and (max-width: 667px), (orientation: portrait){
     p{
     font-size: 50px;
     }
